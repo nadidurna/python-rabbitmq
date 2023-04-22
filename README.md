@@ -1,3 +1,3 @@
-- This project publishes a message and than consumes that message on RabbitMQ.
+- This project publishes a message, than consumes that message on RabbitMQ.
 - Written in Python.
-- Runs on docker-compose.
+- Runs with docker-compose.
